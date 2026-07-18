@@ -8,3 +8,35 @@
 ผลการศึกษาพบว่า ปัจจัยที่มีอิทธิพลต่อการเลือกเพื่อนร่วมห้องมากที่สุด ได้แก่ พฤติกรรมการสูบบุหรี่ ความสะอาด ช่วงเวลานอน และรูปแบบการสื่อสาร อีกทั้งผู้ตอบแบบสอบถามส่วนใหญ่มีแนวโน้มต้องการเพื่อนร่วมห้องที่มีลักษณะใกล้เคียงกับตนเอง งานวิจัยนี้แสดงให้เห็นว่า การประยุกต์ใช้เทคนิค Machine Learning สามารถช่วยสนับสนุนการพัฒนาระบบจับคู่เพื่อนร่วมห้องได้อย่างมีประสิทธิภาพ และสามารถนำไปต่อยอดใช้งานจริงเพื่อช่วยลดความขัดแย้งและส่งเสริมคุณภาพชีวิตในการอยู่อาศัยร่วมกันในหอพักนักศึกษาได้ในอนาคต
 
 คำสำคัญ: K-means, Cosine Similarity, Profile, Expectation, เพื่อนร่วมห้อง
+
+
+## Files
+
+- **Python_Project.ipynb** : Source code of the project
+- **Dataset_Roommate.xlsx** : Dataset used in the project
+
+---
+
+## Google Colab
+
+https://colab.research.google.com/drive/1CkQjIQle7CqrSY96jR0dRbUlg6bsKH_a#scrollTo=q57jAzmHGIg5
+
+---
+
+## How to Run
+
+1. Download **Python_Project.ipynb** from this repository.
+
+2. Download **Dataset_Roommate.xlsx** from this repository.
+
+3. Open **Python_Project.ipynb** using **Google Colab**.
+
+4. Upload **Dataset_Roommate.xlsx** to the Colab working directory (Files panel on the left).
+
+5. Verify that the dataset filename matches the filename referenced in the notebook.
+
+6. Run all notebook cells sequentially from top to bottom.
+
+7. Wait for the preprocessing, clustering, and similarity calculations to complete.
+
+8. View the clustering and roommate matching results.
