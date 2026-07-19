@@ -13,7 +13,7 @@
 ## Files
 
 - **Python_Project.ipynb** : Source code of the project
-- **Dataset_Roommate.xlsx** : Dataset used in the project
+- **Dataset Roommate.xlsx** : Dataset used in the project
 
 ---
 
@@ -27,11 +27,11 @@ https://colab.research.google.com/drive/1CkQjIQle7CqrSY96jR0dRbUlg6bsKH_a#scroll
 
 1. Download **Python_Project.ipynb** from this repository.
 
-2. Download **Dataset_Roommate.xlsx** from this repository.
+2. Download **Dataset Roommate.xlsx** from this repository.
 
 3. Open **Python_Project.ipynb** using **Google Colab**.
 
-4. Upload **Dataset_Roommate.xlsx** to the Colab working directory (Files panel on the left).
+4. Upload **Dataset Roommate.xlsx** to the Colab working directory (Files panel on the left).
 
 5. Verify that the dataset filename matches the filename referenced in the notebook.
 
