@@ -35,7 +35,7 @@ https://colab.research.google.com/drive/1CkQjIQle7CqrSY96jR0dRbUlg6bsKH_a#scroll
 
 5. Verify that the dataset filename matches the filename referenced in the notebook.
 
-6. Run all notebook cells sequentially from top to bottom.
+6. Run all cells sequentially from top to bottom.
 
 7. Wait for the preprocessing, clustering, and similarity calculations to complete.
 
